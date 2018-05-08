@@ -1,4 +1,4 @@
 # hello-world
-Perl does netstat
+Python does netstat
 
-Hello everyone.  For my first project, I would like to learn Perl, make it do netstat fanciness, and post the progress here.
+Hello everyone.  For my first project, I would like to learn Python, make it do netstat fanciness, and post the progress here.
